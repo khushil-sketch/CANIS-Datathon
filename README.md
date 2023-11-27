@@ -26,7 +26,7 @@ We built our visuals using 2 main datasets: the one we were given and one contai
 
 ![image](https://github.com/khushil-sketch/CANIS-Data-Visualization-Foreign-Interference-Hackathon/assets/52947378/66a3bc04-36cf-4d34-8524-1bdbe44a4572)
 
-### our Presentation
+### Our Presentation
 
 Lastly, we wove together a story, presenting the results of our analysis in a manner that was both clear and concise, ensuring comprehensibility for a diverse audience. This included making our work accessible even to those who are not proficient in statistics.
 
