@@ -30,5 +30,5 @@ We built our visuals using 2 main datasets: the one we were given and one contai
 
 ### Our Presentation
 
-Lastly, we wove together a story, presenting the results of our analysis in a manner that was both clear and concise, ensuring comprehensibility for a diverse audience. This included making our work accessible even to those who are not proficient in statistics.
+Lastly, we presented the results of our analysis in a manner that was both clear and concise, ensuring comprehensibility for a diverse audience. This included making our work accessible even to those who are not proficient in statistics.
 
