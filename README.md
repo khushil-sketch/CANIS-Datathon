@@ -28,7 +28,15 @@ We built our visuals using 2 main datasets: the one we were given and one contai
 
 ![image](https://github.com/khushil-sketch/CANIS-Data-Visualization-Foreign-Interference-Hackathon/assets/52947378/66a3bc04-36cf-4d34-8524-1bdbe44a4572)
 
+![image](https://github.com/khushil-sketch/CANIS-Data-Visualization-Foreign-Interference-Hackathon/assets/52947378/6a38957a-7036-4d16-b079-db7ec42481a7)
+
+![image](https://github.com/khushil-sketch/CANIS-Data-Visualization-Foreign-Interference-Hackathon/assets/52947378/ba8da9b6-b5c7-463d-9844-b32432451556) 
+
+![image](https://github.com/khushil-sketch/CANIS-Data-Visualization-Foreign-Interference-Hackathon/assets/52947378/56e905c4-19df-4c88-9c4f-69e6b974a5fb)
+
+
+
 ### Our Presentation
 
-Lastly, we presented the results of our analysis in a manner that was both clear and concise, ensuring comprehensibility for a diverse audience. This included making our work accessible even to those who are not proficient in statistics.
+Lastly, we presented the results of our analysis in a manner that was both clear and concise, ensuring comprehensibility for a diverse audience. This included making our work accessible even to those who don't have domain expertise in statistics.
 
