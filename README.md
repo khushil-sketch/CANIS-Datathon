@@ -1,4 +1,8 @@
-# CANIS-Data-Visualization-Foreign-Interference-Hackathon
+### Datathon Goal
+In this Datathon, were tasked with the open-ended goal of searching for signs of Foreign Interference in Canada via social media and then distilling our findings into understandable insights via a presentation directed towards government officials, ensuring they are equipped with a clear understanding to make informed decisions on this critical issue.
+We were provided with a dataset of State Affiliated Social Media accounts, which served as our starting point. After some exploratory data analysis, I found that Twitter was the most popular platform and we decided to focus our analysis on it. 
+
+# CANIS-Data-Visualization-Datahon
 
 This repo contains datasets, code files and presentation for the 72hr Canadian Network & Information Security (CANIS) Hackathon. 
 
@@ -6,13 +10,11 @@ Check out our Jupyter Notebook: https://colab.research.google.com/drive/1emBGbJV
 
 Check out our Presentation: https://prezi.com/view/Y6Qm9wQupHFbJIEw8BA7/
 
-### Hackathon Goal
-
-This Hackathon was focused on analyzing & visualizing the scale of China's influence on social media as well as investigating whether there have been attempts at foreign influence through these accounts.
+Collaborators: Khushil Nagda, Adel Müürsepp, Jeffrey Zhou
 
 ### Scrapping the data
 
-In order to do this, we were given a raw, uncleaned dataset containing metadata on Chinese owned/affiliated social media accounts as a starting point
+We scrapped 6000 tweets from the Twitter accounts in the dataset 
 
 ![image](https://github.com/khushil-sketch/CANIS-Data-Visualization-Foreign-Interference-Hackathon/assets/52947378/c66c1dbf-c6e2-43a3-9e53-37f31594dd51)
 
