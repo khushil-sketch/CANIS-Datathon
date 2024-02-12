@@ -33,7 +33,7 @@ We built our visuals using 2 main datasets: the one we were given and one contai
 
 ![image](https://github.com/khushil-sketch/Canadian-Inforomation-Security-Datathon/assets/52947378/ff5ceede-e8f3-45de-917c-a3e1538cb6ff)
 
-### Do Polarising tweets get more views:
+## Do Polarising tweets get more views:
 ![image](https://github.com/khushil-sketch/Canadian-Inforomation-Security-Datathon/assets/52947378/a5c2b205-1024-4669-9967-c6701bb82e6c)
 
 
