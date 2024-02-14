@@ -1,4 +1,4 @@
-# Datathon Goal
+# Canadian Information Security Datathon Goal
 In this Datathon, were tasked with the open-ended goal of searching for signs of Foreign Interference in Canada via social media and then distilling our findings into understandable insights via a presentation directed towards government officials, ensuring they are equipped with a clear understanding to make informed decisions on this critical issue.
 
 We were provided with a dataset of State Affiliated Social Media accounts, which served as our starting point. After some exploratory data analysis, I found that Twitter was the most popular platform and we decided to focus our analysis on it. 
