@@ -29,11 +29,15 @@ We built our visuals using 2 main datasets: the one we were given and one contai
 
 ![image](https://github.com/khushil-sketch/CANIS-Data-Visualization-Foreign-Interference-Hackathon/assets/52947378/5e101658-9f2e-4072-bdb1-2fe2fa8276e5)
 
+![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/de4a3167-2937-4fd2-951c-e5d4c00ff893)
+
 ![image](https://github.com/khushil-sketch/Canadian-Inforomation-Security-Datathon/assets/52947378/48648fb3-f5dc-45dc-95f0-84c31ea72309)
 
-![image](https://github.com/khushil-sketch/Canadian-Inforomation-Security-Datathon/assets/52947378/ff5ceede-e8f3-45de-917c-a3e1538cb6ff)
+## Do Polarising tweets get Seen More?
+![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/8119a48e-b95c-4bd7-9533-095c3ac765fe)
 
-## Step 3: Do Polarising tweets get more views:
+![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/b1dd7502-342b-4f0f-ab9d-63ed12c96936)
+
 ![image](https://github.com/khushil-sketch/CANIS-Datathon/assets/52947378/65b2822c-2e37-4732-b877-2ea1d41d6e77)
 
 
