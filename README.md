@@ -37,8 +37,7 @@ We built our visuals using 2 main datasets: the one we were given and one contai
 A notable observation is that even though there are fewer tweets that have a negative sentiment score, a large number of them get a high number of views.
 This shows that the accounts are quite successful at dividing opinion i.e. influencing the masses 
 
-![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/204cb8a9-f677-46d9-b117-dcd24c832218)
-
+![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/f503847f-2acc-4b58-8359-8c4a6195c167)
 
 ![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/fd30d2d6-8f1a-424d-9afd-927b3b410d62)
 
