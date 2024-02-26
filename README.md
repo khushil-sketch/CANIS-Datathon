@@ -34,21 +34,20 @@ We built our visuals using 2 main datasets: the one we were given and one contai
 ![image](https://github.com/khushil-sketch/Canadian-Inforomation-Security-Datathon/assets/52947378/48648fb3-f5dc-45dc-95f0-84c31ea72309)
 
 ## Do Polarising tweets get Seen More?
-![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/7031bbb0-49ea-4452-b4e1-43acc4dac8e2)
+A notable observation is that even though there are fewer tweets that have a negative sentiment score, a large number of them get a high number of views.
+This shows that the accounts are quite successful at dividing opinion i.e. influencing the masses 
 
+![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/7031bbb0-49ea-4452-b4e1-43acc4dac8e2)
 
 ![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/b1dd7502-342b-4f0f-ab9d-63ed12c96936)
 
 ## Comparing Followers and Likes
+Another way to catch accounts masquerading as authentic is by analysing their likes and followers. From the scatter plots below, there are a couple of anomalies that have suspicious likes vs follower ratios.
 
-![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/23a5954a-d083-4107-8dc6-032b29c4cbbf)
+![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/74bce4e1-2439-4ca6-96a3-8b6ee173df46)
+![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/f19be9cd-e3cb-4487-8476-08ea881c14c8)
 
-![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/1b61a5ca-33d5-4372-9fb0-d66e1aab46a4)
-
-![image](https://github.com/khushil-sketch/CANIS-Data-Visualization-Foreign-Interference-Hackathon/assets/52947378/ba8da9b6-b5c7-463d-9844-b32432451556) 
-
-
-
+![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/8a927159-41e2-4548-bb1b-9111cee4be5a)
 
 
 ### Our Presentation
