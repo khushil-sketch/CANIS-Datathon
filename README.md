@@ -47,10 +47,9 @@ Another way to catch accounts masquerading as authentic is by analysing their li
 
 ![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/dca6905c-00c9-420f-8153-8df4c0c68a38)
 
-![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/f19be9cd-e3cb-4487-8476-08ea881c14c8)
+![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/e3cb813a-a4de-4da6-a313-4fbff0d261de)
 
-![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/8a927159-41e2-4548-bb1b-9111cee4be5a)
-
+![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/03cb10d2-3a3b-4f84-8636-9cfe23859b94)
 
 ### Our Presentation
 
