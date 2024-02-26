@@ -46,7 +46,8 @@ This shows that the accounts are quite successful at dividing opinion i.e. influ
 ## Comparing Followers and Likes
 Another way to catch accounts masquerading as authentic is by analysing their likes and followers. From the scatter plots below, there are a couple of anomalies that have suspicious likes vs follower ratios.
 
-![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/74bce4e1-2439-4ca6-96a3-8b6ee173df46)
+![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/dca6905c-00c9-420f-8153-8df4c0c68a38)
+
 ![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/f19be9cd-e3cb-4487-8476-08ea881c14c8)
 
 ![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/8a927159-41e2-4548-bb1b-9111cee4be5a)
