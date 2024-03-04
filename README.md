@@ -7,7 +7,7 @@ We were provided with a dataset of State Affiliated Social Media accounts, which
 
 This repo contains datasets, code files and presentation for the 72hr Canadian Network & Information Security (CANIS) Hackathon. 
 
-Check out our Jupyter Notebook: https://colab.research.google.com/drive/1emBGbJVeE6vVSzEzPkSXX5NvRF9azT6W?usp=sharing
+Check out our Jupyter Notebook: [https://colab.research.google.com/drive/1emBGbJVeE6vVSzEzPkSXX5NvRF9azT6W?usp=sharing](https://colab.research.google.com/drive/1emBGbJVeE6vVSzEzPkSXX5NvRF9azT6W?usp=sharing)
 
 Check out our Presentation: https://prezi.com/view/Y6Qm9wQupHFbJIEw8BA7/
 
