@@ -68,7 +68,11 @@ However 3 things need to be done:
 2. Further analysis needs to be done of the anomalies (popular posts) in Serena's account
 3. Perhaps investigating Twitter Views Shall reveal more information
 
-![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/03cb10d2-3a3b-4f84-8636-9cfe23859b94)
+![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/e83237f3-907f-4d18-883d-984c53f01ac5)
+
+![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/31ebfd1d-53a6-48db-8954-06416c535472) ![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/b2714a62-f500-45df-b19c-3cf523e072f7)
+
+There are lot of anomalous accounts revealed by the scatterplots. This begs the question - why do some accounts have disproportionately higher Tweet views than followers? The Sentiment Analysis can provide some clues
 
 ## What regions have the most positive and negative Tweet sentiment?
 
@@ -83,6 +87,11 @@ A notable observation is that even though there are fewer tweets that have a neg
 This shows that the accounts are quite successful at dividing opinion i.e. influencing the masses 
 
 ![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/f503847f-2acc-4b58-8359-8c4a6195c167)
+
+## Investigating the anomalies: Highly Viewed Tweets that have extreme sentiment scores
+
+![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/774cbfdc-71f5-461a-a5b2-248c755636cf)
+
 
 ### Our Presentation
 
