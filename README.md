@@ -40,20 +40,6 @@ Now that the data collection was done, my work began. Using Pandas, Matplotlib a
 
 ![image](https://github.com/khushil-sketch/CANIS-Data-Visualization-Foreign-Interference-Hackathon/assets/52947378/5e101658-9f2e-4072-bdb1-2fe2fa8276e5)
 
-## What regions have the most positive and negative Tweet sentiment?
-
-![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/de4a3167-2937-4fd2-951c-e5d4c00ff893)
-
-## What is the distribution of Sentiment Scores for the 6000 tweets?
-
-![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/fd30d2d6-8f1a-424d-9afd-927b3b410d62)
-
-## Do Polarising tweets get Seen More?
-A notable observation is that even though there are fewer tweets that have a negative sentiment score, a large number of them get a high number of views.
-This shows that the accounts are quite successful at dividing opinion i.e. influencing the masses 
-
-![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/f503847f-2acc-4b58-8359-8c4a6195c167)
-
 ## Comparing Followers and Likes
 Another way to catch accounts masquerading as authentic is by analysing their likes and followers. Suspicious accounts have high followers and low likes.
 
@@ -84,7 +70,19 @@ However 3 things need to be done:
 
 ![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/03cb10d2-3a3b-4f84-8636-9cfe23859b94)
 
+## What regions have the most positive and negative Tweet sentiment?
 
+![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/de4a3167-2937-4fd2-951c-e5d4c00ff893)
+
+## What is the distribution of Sentiment Scores for the 6000 tweets?
+
+![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/fd30d2d6-8f1a-424d-9afd-927b3b410d62)
+
+## Do Polarising tweets get Seen More?
+A notable observation is that even though there are fewer tweets that have a negative sentiment score, a large number of them get a high number of views.
+This shows that the accounts are quite successful at dividing opinion i.e. influencing the masses 
+
+![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/f503847f-2acc-4b58-8359-8c4a6195c167)
 
 ### Our Presentation
 
