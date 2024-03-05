@@ -19,30 +19,34 @@ We scrapped 6000 tweets from the Twitter accounts in the dataset because I found
 
 ![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/8ac41054-1811-4fb3-9d1b-257410c44ae5)
 
-A glimpse of the 6000 tweet dataset that we scrapped: 
+A glimpse of the 6000 tweet dataset that we scrapped - we extracted crucial information such as the engagement of each post and its Likes count.
 
 ![image](https://github.com/khushil-sketch/CANIS-Data-Visualization-Foreign-Interference-Hackathon/assets/52947378/c66c1dbf-c6e2-43a3-9e53-37f31594dd51)
 
-We analyzed foreign influence and interference operations in 2 different contexts: what these operations look like when their targets are Western countries, and what these operations look like when their targets are non-Western countries. 
-In order to gather more data about Chinese social media accounts, we scrapped information from each individual's Twitter account, extracting information such as the engagement of each post and its Likes count
-
-![image](https://github.com/khushil-sketch/CANIS-Data-Visualization-Foreign-Interference-Hackathon/assets/52947378/da650d53-f382-4e36-afd8-d99ceb4cc659)
 
 ## Step 2: Sentiment Analysis 
 
 With this huge dataset, there were multiple angles from which we could approach our foreign interference investigation. However, one crucial component was missing, a component that would help us identify specific accounts that were attempting to influence opinions: A Sentiment Analysis of Tweets.
 
-Leveraging NLTK's Vader library, we analyzed the Sentiment and Subjectivity of the Tweets, assigning relevant metrics to quantify the negativity/ positivy of tweets.
+Leveraging NLTK's Vader library, we analyzed the Sentiment and Subjectivity of the Tweets, assigning relevant metrics to quantify the negativity/positivity of tweets.
 
-We built our visuals using 2 main datasets: the one we were given and one containing tweets that we scraped. We cleaned these datasets using **Pandas**. Thereafter, we used both **Matplotlib** and **Tableau** to visualize our findings and derive insights from them.
+Now that the data collection was done, my work began. Using Pandas, Matplotlib and Plotly, I cleaned & transformed the datasets, investigated anomalies, performed exploratory visualizations and uncovered hidden insights that i brought to light in the final visualizations that I crafted.
 
+## Who owns the accounts? What regions do they target?
 
+![Network Flow Diagrams](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/ed7d6378-4dd5-4106-9e32-b6f79e55fc1a)
+
+![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/4023b9a3-289b-4738-b44f-9c15fd4aafd8)
 
 ![image](https://github.com/khushil-sketch/CANIS-Data-Visualization-Foreign-Interference-Hackathon/assets/52947378/5e101658-9f2e-4072-bdb1-2fe2fa8276e5)
 
+## What regions have the most positive and negative Tweet sentiment?
+
 ![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/de4a3167-2937-4fd2-951c-e5d4c00ff893)
 
-![image](https://github.com/khushil-sketch/Canadian-Inforomation-Security-Datathon/assets/52947378/48648fb3-f5dc-45dc-95f0-84c31ea72309)
+## What is the distribution of Sentiment Scores for the 6000 tweets?
+
+![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/fd30d2d6-8f1a-424d-9afd-927b3b410d62)
 
 ## Do Polarising tweets get Seen More?
 A notable observation is that even though there are fewer tweets that have a negative sentiment score, a large number of them get a high number of views.
@@ -50,11 +54,8 @@ This shows that the accounts are quite successful at dividing opinion i.e. influ
 
 ![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/f503847f-2acc-4b58-8359-8c4a6195c167)
 
-![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/fd30d2d6-8f1a-424d-9afd-927b3b410d62)
-
-
 ## Comparing Followers and Likes
-Another way to catch accounts masquerading as authentic is by analysing their likes and followers. From the scatter plots below, there are a couple of anomalies that have suspicious likes vs follower ratios.
+Another way to catch accounts masquerading as authentic is by analysing their likes and followers. Suspicious accounts have high followers and low likes.
 
 ![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/dca6905c-00c9-420f-8153-8df4c0c68a38)
 
@@ -62,11 +63,6 @@ Another way to catch accounts masquerading as authentic is by analysing their li
 
 ![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/03cb10d2-3a3b-4f84-8636-9cfe23859b94)
 
-## Network Flow Diagram
-
-![Network Flow Diagrams](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/ed7d6378-4dd5-4106-9e32-b6f79e55fc1a)
-
-![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/4023b9a3-289b-4738-b44f-9c15fd4aafd8)
 
 
 ### Our Presentation
