@@ -76,7 +76,7 @@ However 3 things need to be done:
 
 ![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/e83237f3-907f-4d18-883d-984c53f01ac5)
 
-![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/31ebfd1d-53a6-48db-8954-06416c535472) ![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/b2714a62-f500-45df-b19c-3cf523e072f7)
+![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/31ebfd1d-53a6-48db-8954-06416c535472) 
 
 There are lot of anomalous accounts revealed by the scatterplots. This begs the question - why do some accounts have disproportionately higher Tweet views than followers? The Sentiment Analysis can provide some clues
 
