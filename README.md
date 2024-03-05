@@ -24,13 +24,15 @@ A glimpse of the 6000 tweet dataset that we scrapped - we extracted crucial info
 ![image](https://github.com/khushil-sketch/CANIS-Data-Visualization-Foreign-Interference-Hackathon/assets/52947378/c66c1dbf-c6e2-43a3-9e53-37f31594dd51)
 
 
-## Step 2: Sentiment Analysis 
+### Step 2: Sentiment Analysis 
 
 With this huge dataset, there were multiple angles from which we could approach our foreign interference investigation. However, one crucial component was missing, a component that would help us identify specific accounts that were attempting to influence opinions: A Sentiment Analysis of Tweets.
 
 Leveraging NLTK's Vader library, we analyzed the Sentiment and Subjectivity of the Tweets, assigning relevant metrics to quantify the negativity/positivity of tweets.
 
 Now that the data collection was done, my work began. Using Pandas, Matplotlib and Plotly, I cleaned & transformed the datasets, investigated anomalies, performed exploratory visualizations and uncovered hidden insights that i brought to light in the final visualizations that I crafted.
+
+# Step 3: Visualizations
 
 ## Who owns the accounts? What regions do they target?
 
@@ -40,8 +42,8 @@ Now that the data collection was done, my work began. Using Pandas, Matplotlib a
 
 ![image](https://github.com/khushil-sketch/CANIS-Data-Visualization-Foreign-Interference-Hackathon/assets/52947378/5e101658-9f2e-4072-bdb1-2fe2fa8276e5)
 
-## Comparing Followers and Likes
-Another way to catch accounts masquerading as authentic is by analysing their likes and followers. Suspicious accounts have high followers and low likes.
+## Investigating Likes
+One way to catch accounts masquerading as authentic is by analysing their likes vs followers. Suspicious accounts have high followers and low likes OR low followers and high likes
 
 ![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/dca6905c-00c9-420f-8153-8df4c0c68a38)
 
@@ -55,7 +57,9 @@ What makes them significant is that the average number of Like Counts for these 
 
 ![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/a342060f-ee19-44a4-bb18-7dcdb9acf959)
 
-Out of the 4 anomalies, 2 are run by individual people. Let's look at metadata of Serena Dong's account
+### Investigating the Outliers
+
+Out of the 4 anomalies, 2 are run by individual people. Let's look at metadata of 1 such account, Serena Dong's account
 
 ![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/ce9a3824-4fe8-4d80-a092-c0b91d6fd14a)
 ![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/4dd0b682-f39d-4b14-8b1e-f89ad9bdac2c)
@@ -68,27 +72,29 @@ However 3 things need to be done:
 2. Further analysis needs to be done of the anomalies (popular posts) in Serena's account
 3. Perhaps investigating Twitter Views Shall reveal more information
 
+## Investigating Twitter Views
+
 ![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/e83237f3-907f-4d18-883d-984c53f01ac5)
 
 ![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/31ebfd1d-53a6-48db-8954-06416c535472) ![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/b2714a62-f500-45df-b19c-3cf523e072f7)
 
 There are lot of anomalous accounts revealed by the scatterplots. This begs the question - why do some accounts have disproportionately higher Tweet views than followers? The Sentiment Analysis can provide some clues
 
-## What regions have the most positive and negative Tweet sentiment?
+### What regions have the most positive and negative Tweet sentiment?
 
 ![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/de4a3167-2937-4fd2-951c-e5d4c00ff893)
 
-## What is the distribution of Sentiment Scores for the 6000 tweets?
+### What is the distribution of Sentiment Scores for the 6000 tweets?
 
 ![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/fd30d2d6-8f1a-424d-9afd-927b3b410d62)
 
-## Do Polarising tweets get Seen More?
+### Do Polarising tweets get Seen More?
 A notable observation is that even though there are fewer tweets that have a negative sentiment score, a large number of them get a high number of views.
 This shows that the accounts are quite successful at dividing opinion i.e. influencing the masses 
 
 ![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/f503847f-2acc-4b58-8359-8c4a6195c167)
 
-## Investigating the anomalies: Highly Viewed Tweets that have extreme sentiment scores
+### Isolating the anomalies: Highly Viewed Tweets that have extreme sentiment scores
 
 ![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/774cbfdc-71f5-461a-a5b2-248c755636cf)
 
