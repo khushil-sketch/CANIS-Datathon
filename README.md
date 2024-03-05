@@ -69,8 +69,18 @@ What makes them significant is that the average number of Like Counts for these 
 
 ![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/a342060f-ee19-44a4-bb18-7dcdb9acf959)
 
+Out of the 4 anomalies, 2 are run by individual people. Let's look at metadata of Serena Dong's account
 
-![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/e3cb813a-a4de-4da6-a313-4fbff0d261de)
+![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/ce9a3824-4fe8-4d80-a092-c0b91d6fd14a)
+![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/4dd0b682-f39d-4b14-8b1e-f89ad9bdac2c)
+
+![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/e28288d8-2203-4e76-93f8-320ba314d7a9)
+
+For an account such as Serena's, where she has 47800 followers, the distribution of her Tweet Views, Likes and Retweets seems pretty normal and within the realm of possibility. 
+However 3 things need to be done:
+1. A benchmark has to be created of what constitutes a normal distribution of Tweet Views, Likes and Retweets for accounts with a similar level of following
+2. Further analysis needs to be done of the anomalies (popular posts) in Serena's account
+3. Perhaps investigating Twitter Views Shall reveal more information
 
 ![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/03cb10d2-3a3b-4f84-8636-9cfe23859b94)
 
