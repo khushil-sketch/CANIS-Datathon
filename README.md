@@ -59,6 +59,17 @@ Another way to catch accounts masquerading as authentic is by analysing their li
 
 ![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/dca6905c-00c9-420f-8153-8df4c0c68a38)
 
+Out of all the Twitter accounts represented above, 29 were anomalous, but are all of them worth investigating?
+![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/e5f7ebf5-5793-48bb-8237-e1b6bfc399e9)
+
+Out of all the 29 anomalies, there's only 4 that are significant enough to investigate.
+What makes them significant is that the average number of Like Counts for these 4 anomalies were calculated based on a large sample of tweets unlike the other potential anomalies which had a low tweet count.
+
+![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/713b07c7-1cea-4caf-b82a-42c143f8594d)
+
+![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/a342060f-ee19-44a4-bb18-7dcdb9acf959)
+
+
 ![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/e3cb813a-a4de-4da6-a313-4fbff0d261de)
 
 ![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/03cb10d2-3a3b-4f84-8636-9cfe23859b94)
