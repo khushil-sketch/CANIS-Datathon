@@ -1,5 +1,5 @@
 # The Goal
-In this Datathon, were tasked with the open-ended goal of searching for signs of covert Foreign Interference in Canada orchestrated via state-sponsored social media accounts. After analyzing the data, we transformed our findings into clear, actionable insights through engaging visualizations and compelling data-driven narratives. We aimed to provide government officials with a solid foundation of the impact of Foreign Interference, to help them make informed decisions regarding this pivotal issue
+In this Datathon, we were tasked with the open-ended goal of searching for signs of covert Foreign Interference in Canada orchestrated via state-sponsored social media accounts. After analyzing the data, we transformed our findings into clear, actionable insights through engaging visualizations and compelling data-driven narratives. We aimed to provide government officials with a solid foundation of the impact of Foreign Interference, to help them make informed decisions regarding this pivotal issue
 
 We were provided with a dataset of State Affiliated Social Media accounts, which served as our starting point. After some exploratory data analysis, I found that Twitter was the most popular platform and we decided to focus our analysis on it. 
 
