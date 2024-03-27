@@ -17,8 +17,6 @@ Collaborators: Khushil Nagda, Adel Müürsepp, Jeffrey Zhou
 
 We scrapped 6000 tweets from the Twitter accounts in the dataset - the original dataset was missing crucial Twitter Metadata such as Likes, Comments, Post content and this information would be incredibly useful for our goal.
 
-![image](https://github.com/khushil-sketch/Canadian-Information-Security-Datathon/assets/52947378/8ac41054-1811-4fb3-9d1b-257410c44ae5)
-
 A glimpse of the 6000 tweet dataset that we scrapped - we extracted crucial information such as the engagement of each post and its Likes count.
 
 ![image](https://github.com/khushil-sketch/CANIS-Data-Visualization-Foreign-Interference-Hackathon/assets/52947378/c66c1dbf-c6e2-43a3-9e53-37f31594dd51)
